@@ -1,0 +1,4 @@
+ecg-ska-engine/
+__pycache__/
+*.aux
+*.log
